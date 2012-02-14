@@ -1,7 +1,8 @@
-# Authoring Guidance for Markdown #
+﻿# Authoring Guidance for Markdown #
  
 This guide describe the typical styles used in DPE content.  
-If you're not already familiar with Markdown, you should spend 15 minutes and go over the excellent Markdown Syntax Guide at Daring Fireball.
+If you're not already familiar with Markdown, this document will give you a great starting point with the markdown syntax while also exploring some guidelines and suggestions.
+
 
 ## Document section headings ##
 Topic titles like Overview and Exercises use a first and second level heading.  
