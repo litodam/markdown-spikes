@@ -1,4 +1,5 @@
 ﻿# Authoring Guidance for Markdown #
+ 
 This guide describe the typical styles used in DPE content.  
 If you're not already familiar with Markdown, you should spend 15 minutes and go over the excellent Markdown Syntax Guide at Daring Fireball.
 
@@ -174,10 +175,25 @@ Output:
 ![Alt Text](./images/myimage.png "Image Title")
 
 
----
+## Tables ##
 
-## Pending Items: ##
-- Tables
+In Markdown, tables are not supported out of the box but there are several engines that support an extension using the following syntax:
+Example:
+	
+	| **ColHeader1** | **ColHeader2** |
+	|----------------|----------------|
+	| Field1         | Field2         |
+	| Field3         | Field4         |
+	| Field5         | Field6         |
+	
+	
+Output:
+
+| **ColHeader1** | **ColHeader2** |
+|----------------|----------------|
+| Field1         | Field2         |
+| Field3         | Field4         |
+| Field5         | Field6         |
 
 
 
