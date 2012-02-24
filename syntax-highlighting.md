@@ -1,4 +1,4 @@
-﻿
+
 ## TESTING SYNTAX HIGHLIGHTING ##
 
 The syntax could be:
