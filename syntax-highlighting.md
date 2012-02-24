@@ -1,8 +1,7 @@
-
 ## TESTING SYNTAX HIGHLIGHTING ##
 
 
-````c#
+````C#
 	var a = 7;
 	var b = 8;
 	var result = a+b;
